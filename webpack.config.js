@@ -30,6 +30,6 @@ module.exports = {
         modulesDirectories: ['node_modules', 'bower_components']
     },
     devServer: {
-        contentBase: "./dist"
+        contentBase: "./"
     }
 };
